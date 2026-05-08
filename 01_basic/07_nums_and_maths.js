@@ -2,7 +2,7 @@
 const number = 100
 console.log(number);
 const balance = new Number(100)
-console.log(balance.toFixed(1)); //this will help you while buidling the e-commerce website for carting and all
+console.log(balance.toFixed(1)); //this will help you while buidling the e-commerce website for carting and all give the decimal at last
 const anotherString = 124.9875
 console.log(anotherString.toPrecision(3)); // important
 const secondOne = 10000000

@@ -1,2 +1,2 @@
 # javascript
-Js basic
+Js basic and advance
